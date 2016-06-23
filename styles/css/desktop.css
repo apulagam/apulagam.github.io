@@ -17,7 +17,15 @@
 	}	
 	
 	.visible-only-small{
-		display: none;
+		display: none!important;
+	}
+
+	.only-medium-visible{
+		display: none!important;
+	}	
+	
+	.only-large-visible{
+		display: block;
 	}
 	
 	.footer-section{

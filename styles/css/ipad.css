@@ -14,7 +14,15 @@
 	}
 	
 	.visible-only-small{
-		display: none;
+		display: none!important;
+	}
+	
+	.only-large-visible{
+		display: none!important;
+	}	
+	
+	.only-medium-visible{
+		display: block;
 	}
 	
 	.btn-wrapper:nth-child(3){

@@ -15,9 +15,16 @@
 		border-radius: 60px;
 	}
 	
-	
 	.visible-only-small{
 		display: block;
+	}
+	
+	.only-large-visible{
+		display: none;
+	}
+
+	.only-medium-visible{
+		display: none;
 	}
 	
 	.footer-section{
