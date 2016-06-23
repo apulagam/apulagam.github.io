@@ -1,0 +1,31 @@
+@media (min-width: 200px) and (max-width: 767px) {
+	.not-small-visible{
+		display: none;
+	}
+
+	.main-content{
+		padding: 15px;
+	}
+	
+	.btn{
+		margin-bottom: 5px;
+	}
+	
+	.blue.circular-border{
+		border-radius: 60px;
+	}
+	
+	
+	.visible-only-small{
+		display: block;
+	}
+	
+	.footer-section{
+		padding-left:100px;
+		padding-right: 25px;
+	}
+
+	.footer-section .footer-section-content{
+		padding: 0px 35px;
+	}
+}

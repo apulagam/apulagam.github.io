@@ -1,0 +1,30 @@
+@media (min-width: 1200px) {	
+	.not-small-visible{
+		display: block;
+	}
+	
+	.main-content{
+		padding-left: 60px;
+		padding-right: 60px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.btn{
+		margin-bottom: 20px;
+		margin-left:auto;
+		margin-right: auto;
+	}	
+	
+	.visible-only-small{
+		display: none;
+	}
+	
+	.footer-section{
+		float: left;
+	}
+
+	.footer-section:nth-child(2) .footer-section-content{
+		float: right;
+	}
+}

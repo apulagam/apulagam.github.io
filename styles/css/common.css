@@ -1,0 +1,105 @@
+body,html{
+	width: 100%;
+	line-height: 1.42857143;
+	height: 100%;
+	background: white;
+	padding: 0px;
+	margin: 0px;
+}
+
+.top-header{
+	padding: 0px!important;
+	background: white;
+}
+
+.top-header .image{
+	height: 500px;
+	width: 100%;
+	margin-bottom: 5%;
+}
+
+.main-content{
+	background: white;
+}
+
+.blue{
+	background: #94A7F8;
+}
+
+.orange{
+	background: #F4D648;
+}
+
+.pink{
+	background: #F8758F;
+}
+
+.btn{
+    height: 70px;
+	display: inline-block;
+	font-size: 14px;
+    text-align: center;
+	margin-bottom: 5px;
+    padding-top: 25px;
+    color: white;
+}
+
+.content-heading{
+	text-align: center;
+	font-size: 30px;
+	font-weight: 500;
+    margin-right: auto;
+    margin-left: auto;
+	float: none;
+}
+
+.actual-content{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 50px;
+}
+
+.content{
+	color: #A1A5A6;
+	margin: 30px 0px;
+	font-size: 14px;
+}
+
+.centered{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.circular-border{
+	border-radius: 25px;
+}
+
+.green{
+	background: #89F588;
+}
+
+.main-footer{
+	background: #dadada;
+}
+
+.footer-section{
+	padding-top: 35px;
+	padding-bottom: 50px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.footer-title{
+	font-size: 18px;
+	font-weight: 500;
+}
+
+.footer-link{
+	display: block;
+	font-size: 14px;
+}
+
+.clearFix{
+	display: block;
+	clear: both;
+}
